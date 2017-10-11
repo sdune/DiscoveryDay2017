@@ -23,15 +23,15 @@ Find information about **parasite species** and how to treat them:
 
 https://wasmuthlab.wordpress.com/teaching/discovery-days/
 
-[Cooperia oncophora](https://wasmuthlab.wordpress.com/teaching/discovery-days/cooperia-oncophora/)
-[Haemonchus placei](https://wasmuthlab.wordpress.com/teaching/discovery-days/haemonchus-placei/)
-[Ostertagia ostertagi](https://wasmuthlab.wordpress.com/teaching/discovery-days/ostertagia-ostertagi/)
-[Dictyocaulus viviparus](https://wasmuthlab.wordpress.com/teaching/discovery-days/dictyocaulus-viviparus/)
-[Dicrocoelium dendriticum](https://wasmuthlab.wordpress.com/teaching/discovery-days/dicrocoelium-dendriticum/)
-[Babesia bovis](https://wasmuthlab.wordpress.com/teaching/discovery-days/babesia-bovis/)
-[Prion](https://wasmuthlab.wordpress.com/teaching/discovery-days/prions/)
+- [Babesia bovis](https://wasmuthlab.wordpress.com/teaching/discovery-days/babesia-bovis/)
+- [Cooperia oncophora](https://wasmuthlab.wordpress.com/teaching/discovery-days/cooperia-oncophora/)
+- [Dicrocoelium dendriticum](https://wasmuthlab.wordpress.com/teaching/discovery-days/dicrocoelium-dendriticum/)
+- [Dictyocaulus viviparus](https://wasmuthlab.wordpress.com/teaching/discovery-days/dictyocaulus-viviparus/)
+- [Haemonchus placei](https://wasmuthlab.wordpress.com/teaching/discovery-days/haemonchus-placei/)
+- [Ostertagia ostertagi](https://wasmuthlab.wordpress.com/teaching/discovery-days/ostertagia-ostertagi/)
+- [Prion](https://wasmuthlab.wordpress.com/teaching/discovery-days/prions/)
 
 This workshop is supported by the NSERC CREATE program in Host-Parasite Interactions (http://www.ucalgary.ca/hpi/).
 
 The material was created and provided by previous DiscoveryDay instructors:
-Dr. Dave Curran, Dr. Janneke Wit, Christina Amat, and many others. 
+Dr. Dave Curran, Russell Avramenko, Dr. Janneke Wit, and Christina Amat.  
