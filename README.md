@@ -33,5 +33,14 @@ https://wasmuthlab.wordpress.com/teaching/discovery-days/
 
 This workshop is supported by the NSERC CREATE program in Host-Parasite Interactions (http://www.ucalgary.ca/hpi/).
 
+Your instructors were:
+- Sonja Dunemann
+- Dr. James Wasmuth
+- Leah Hohman 
+- Bruna Meireles Palmeira
+- Jeanie Quach
+- Kaylee Rich
+- Chenhua Li
+
 The material was created and provided by previous DiscoveryDay instructors:
 Dr. Dave Curran, Russell Avramenko, Dr. Janneke Wit, and Christina Amat.  
