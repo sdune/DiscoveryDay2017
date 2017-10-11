@@ -5,13 +5,13 @@
 
 
 
-NCBI Blast website: 
+**NCBI Blast website:** 
 
 https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 
 
-Find information about parasite species and how to treat them: 
+Find information about **parasite species** and how to treat them: 
 
 https://wasmuthlab.wordpress.com/teaching/discovery-days/
 
